@@ -1,0 +1,307 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#A27500",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#A27500",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#A27500",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+			,{
+		"path": "pages/saishigonggao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishigonggao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishigonggao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/qiuyuan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/qiuyuan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/qiuyuan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/duizhang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/duizhang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/duizhang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/qiuduixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/qiuduixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/qiuduixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/bisaixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/bisaibaoming/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaibaoming/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaibaoming/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/saishijijin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishijijin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishijijin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+							,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discusssaishijijin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusssaishijijin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusssaishijijin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white"
+		}
+	}
+			    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "社区讨论发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+			, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#19191E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "微信小程序校园工会体育报名系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#19191E",
+		"borderStyle": "white",
+		"backgroundColor": "#A27500",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/bisaixinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "比赛信息"
+			}
+												,{
+				"pagePath": "pages/bisaibaoming/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "比赛报名"
+			}
+						
+						,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/type.png",
+			 	"selectedIconPath": "static/tabs/type1.png",
+				"text": "社区讨论"
+			}
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
